@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,8 +8,7 @@
     body {
       margin: 0;
       padding: 0;
-      background: url('https://i.ibb.co/XzYHbg0/eiffel-bg.jpg') no-repeat center center fixed;
-
+      background: url('https://upload.wikimedia.org/wikipedia/commons/e/e6/Paris_-_Eiffel_Tower_view_from_Trocad%C3%A9ro_02.jpg') no-repeat center center fixed;
       background-size: cover;
       display: flex;
       justify-content: center;
@@ -73,8 +71,11 @@
 
   <div class="container">
     <div class="speech-bubble">Sorry Jaic 💗</div>
-    <img class="monkey" src="https://i.ibb.co/1nLbtz8/monkey-ice-cream.png" alt="Monkey holding ice cream">
-
+    <img
+      class="monkey"
+      src="https://cdn.pixabay.com/photo/2017/08/30/21/42/monkey-2697337_1280.png"
+      alt="Monkey holding ice cream"
+    >
   </div>
 
 </body>
